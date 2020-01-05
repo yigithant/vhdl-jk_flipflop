@@ -1,0 +1,15 @@
+Analysis & Synthesis Status : Successful - Sat Jan 04 19:07:57 2020
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Full Version
+Revision Name : jk_flipflop
+Top-level Entity Name : jk_flipflop
+Family : Stratix II
+Logic utilization : N/A
+    Combinational ALUTs : 0
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 6
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 9-bit elements : 0
+Total PLLs : 0
+Total DLLs : 0
